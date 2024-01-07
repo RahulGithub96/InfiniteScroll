@@ -1,0 +1,28 @@
+.childele {
+  display: flex;
+  align-items: center;
+}
+
+.innerbox {
+  display: flex;
+  text-align: right;
+  padding: 36px;
+}
+
+img {
+  max-width: 27%;
+  height: auto;
+  margin-right: 20px;
+  margin-left: 25%;
+  border-radius: 10px;
+}
+
+h2, p {
+  margin: 0;
+}
+
+.text{
+  width: 350px;
+  font-size: 14px;
+  text-align: left;
+}
